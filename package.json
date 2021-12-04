@@ -1,0 +1,35 @@
+{
+  "name": "@creatrix/safehtml",
+  "version": "0.0.2",
+  "description": "Javacript entities, youtubeUrl,SafeHtml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/creatrixlb/safehtml.git"
+  },
+  "keywords": [
+    "convert",
+    "hex",
+    "color",
+    "to",
+    "rgba",
+    "pure",
+    "javascript",
+    "creatrix"
+  ],
+  "author": "Creatrix Digital Agency <developer@creatrix-lb.com> (https://creatrix-lb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatrixlb/safehtml/issues"
+  },
+  "depenndicies":{
+    "html-entities": "^2.3.2",
+    "react-native-render-html": "^6.3.1",
+    "@creatrix/typeofdata": "^0.0.2",
+    "react-native-sha256": "^1.4.7"
+  },
+  "homepage": "https://github.com/creatrixlb/safehtml#readme"
+}
