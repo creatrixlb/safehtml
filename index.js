@@ -21,7 +21,7 @@ function SafeHtml({text}){
 
   const renderers = {
     img: CustomImageRenderer,
-    iframe:CustomIframeRender
+    //iframe:CustomIframeRender
   };
   
   if (isNotEmpty(text)!==true){return null;}
