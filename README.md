@@ -1,7 +1,7 @@
 # dependencies Used
     "prop-types": "^15.7.2",
     "html-entities": "^2.3.2",
-    "react-native-render-html": "^6.3.0",
+    "react-native-render-html": "^6.3.1",
     "@creatrix/typeofdata":"0.0.2",
 
 # commonProvider
